@@ -1,5 +1,11 @@
 package chapter5.example;
 
+/**
+ * this¹Ø¼ü×Ö
+ * 
+ * @author YJP
+ *
+ */
 class Person {
 	public void eat(Apple apple) {
 		Apple peeled = apple.getPeeled();
