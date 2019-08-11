@@ -1,6 +1,6 @@
 package chapter3.exercise;
 
-public class DogCompare5_6 {
+public class DogCompare5And6 {
 
 	public static void main(String[] args) {
 		Dog spot = new Dog();
@@ -34,7 +34,7 @@ public class DogCompare5_6 {
 		System.out.println("Butch: ");
 		butch.showName();
 		butch.speak();
-		
+
 	}
 
 }

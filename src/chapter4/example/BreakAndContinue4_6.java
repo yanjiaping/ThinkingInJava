@@ -1,5 +1,11 @@
 package chapter4.example;
 
+/**
+ * BreakºÍContinue
+ * 
+ * @author YJP
+ *
+ */
 public class BreakAndContinue4_6 {
 
 	public static void main(String[] args) {

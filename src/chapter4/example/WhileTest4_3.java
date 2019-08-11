@@ -1,5 +1,11 @@
 package chapter4.example;
 
+/**
+ * µü´ú
+ * 
+ * @author YJP
+ *
+ */
 public class WhileTest4_3 {
 	static boolean condition() {
 		boolean result = Math.random() < 0.99;

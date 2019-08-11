@@ -1,5 +1,11 @@
 package chapter3.example;
 
+/**
+ * ¸³Öµ
+ * 
+ * @author YJP
+ *
+ */
 public class Assignment3_4 {
 
 	public static void main(String[] args) {

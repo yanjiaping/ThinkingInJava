@@ -1,5 +1,11 @@
 package chapter4.example;
 
+/**
+ * ±Í«©
+ * 
+ * @author YJP
+ *
+ */
 public class LabeledFor4_7__1 {
 
 	public static void main(String[] args) {

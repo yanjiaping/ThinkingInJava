@@ -1,5 +1,11 @@
 package chapter4.example;
 
+/**
+ * ±Í«©
+ * 
+ * @author YJP
+ *
+ */
 public class LabeledWhile4_7__2 {
 
 	public static void main(String[] args) {

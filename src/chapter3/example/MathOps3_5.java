@@ -2,6 +2,12 @@ package chapter3.example;
 
 import java.util.Random;
 
+/**
+ * ËãÊý²Ù×÷·û
+ * 
+ * @author YJP
+ *
+ */
 public class MathOps3_5 {
 
 	public static void main(String[] args) {

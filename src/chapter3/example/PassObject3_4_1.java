@@ -1,5 +1,11 @@
 package chapter3.example;
 
+/**
+ * 方法调用中的别名问题
+ * 
+ * @author YJP
+ *
+ */
 public class PassObject3_4_1 {
 	static void f(Letter y) {
 		y.c = 'z';

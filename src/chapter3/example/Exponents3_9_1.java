@@ -1,5 +1,11 @@
 package chapter3.example;
 
+/**
+ * 指数计数法
+ * 
+ * @author YJP
+ *
+ */
 public class Exponents3_9_1 {
 
 	public static void main(String[] args) {

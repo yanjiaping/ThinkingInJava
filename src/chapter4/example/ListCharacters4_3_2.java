@@ -1,5 +1,11 @@
 package chapter4.example;
 
+/**
+ * for
+ * 
+ * @author YJP
+ *
+ */
 public class ListCharacters4_3_2 {
 
 	public static void main(String[] args) {

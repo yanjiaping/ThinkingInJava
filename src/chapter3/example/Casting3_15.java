@@ -1,5 +1,11 @@
 package chapter3.example;
 
+/**
+ * 类型转换操作符
+ * 
+ * @author YJP
+ *
+ */
 public class Casting3_15 {
 
 	public static void main(String[] args) {
